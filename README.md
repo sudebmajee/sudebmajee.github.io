@@ -1,6 +1,6 @@
 # Hi there, I'm Sudeb Majee 👋
 
-Welcome to my GitHub profile!   Here, you will find a collection of my projects, contributions, and experiments.
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile!   Here, you will find a collection of my projects,
 - I received my Ph.D. degree in Mathematics from IIT Mandi in January 2021.
 <!-- 💬 Ask me about web development, Python, JavaScript, or anything tech-related!
 - 📫 How to reach me: [Email](mailto:sudebmajee@example.com) | [LinkedIn](https://www.linkedin.com/in/sudebmajee)
-<!-- ⚡ Fun fact: I love to read tech blogs and explore new gadgets.
+<!-- ⚡ Fun fact: I love to read tech blogs and explore new gadgets. -->
 
 
 ## 🌐 Connect with Me
