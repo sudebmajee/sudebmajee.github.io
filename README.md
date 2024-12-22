@@ -15,8 +15,8 @@ Welcome to my GitHub profile!
 ## External links
 
 - [Google Scholar](https://scholar.google.com/citations?user=v0zArlEAAAAJ&hl=en&oi=ao)
-- [Researchgate](https://twitter.com/sudebmajee)
-- [ORCID](https://sudebmajee.com)
+- [Researchgate](https://www.researchgate.net/profile/Sudeb-Majee)
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-1266-4974)
 
 Thanks for visiting my profile! Have a great day! 😊
 
