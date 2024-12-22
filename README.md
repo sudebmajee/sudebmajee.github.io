@@ -37,14 +37,10 @@ Welcome to my personal GitHub space! Here, you'll find information about my rese
 - Award 1 (Year)
 - Grant 1 (Year)
 
-## 🎓 Students and Teaching
+## Teaching
 ### **Courses Taught**
 - Course 1
 - Course 2
-
-### **Students Supervised**
-- Student Name 1
-- Student Name 2
 
 ## 💻 Codes
 Explore my repositories for:
@@ -53,9 +49,10 @@ Explore my repositories for:
 
 ## 📬 Contact
 You can reach me at:
-- [Email: ](mailto:smajee@uncc.edu)
-- Website: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: [smajee@uncc.edu](mailto:smajee@uncc.edu)
+- Website: [https://sites.google.com/view/majeesudeb](https://sites.google.com/view/majeesudeb)
+- LinkedIn: [Sudeb Majee](https://www.linkedin.com/in/sudeb-majee-9236b8103/)
+
 
 ## External links
 
