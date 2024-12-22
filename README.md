@@ -12,11 +12,11 @@ Welcome to my GitHub profile!
 <!-- ⚡ Fun fact: I love to read tech blogs and explore new gadgets. -->
 
 
-## 🌐 Connect with Me
+## External links
 
-- [LinkedIn](https://www.linkedin.com/in/sudebmajee)
-- [Twitter](https://twitter.com/sudebmajee)
-- [Personal Website](https://sudebmajee.com)
+- [Google Scholar](https://scholar.google.com/citations?user=v0zArlEAAAAJ&hl=en&oi=ao)
+- [Researchgate](https://twitter.com/sudebmajee)
+- [ORCID](https://sudebmajee.com)
 
 Thanks for visiting my profile! Have a great day! 😊
 
