@@ -18,6 +18,14 @@ Welcome to my GitHub profile!
 - [Researchgate](https://www.researchgate.net/profile/Sudeb-Majee)
 - [ORCID](https://orcid.org/0000-0003-1266-4974)
 
+  ---
+
+## 🔬 Research Interests
+- Computational Mathematics
+- Machine Learning
+- Partial Differential Equations
+- Scientific Computing
+
 Thanks for visiting my profile! Have a great day! 😊
 
 
