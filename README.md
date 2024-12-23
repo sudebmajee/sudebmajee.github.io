@@ -1,7 +1,8 @@
 # Hi there, I'm Sudeb Majee 👋
+# 🚧 Portfolio Under Construction 🚧
 
-Welcome to my GitHub profile!
-
+Hi there! 👋 Thank you for visiting my GitHub profile.  
+I'm currently working on building and updating my portfolio.
 
 [🏠 Home](#-home) | [📄 CV](#-cv) | [🔬 Research Interests](#-research-interests) | [📚 Publications/Preprints](#-publicationspreprints) | [🎤 Conferences and Talks](#-conferences-and-talks) | [🏆 Grants and Awards](#-grants-and-awards) | [🎓 Students and Teaching](#-students-and-teaching) | [💻 Codes](#-codes) | [📬 Contact](#-contact)
 
